@@ -141,6 +141,6 @@ CREATE TABLE user_profile (
  ## Author
 Jael Bahati 
 - [GitHub](https://github.com/Bahati23)  
-- [LinkedIn](https://linkedin.com/in/jael-bahati)  
+- [LinkedIn](https://linkedin.com/in/jael bahati)  
  
 
