@@ -59,7 +59,7 @@ cd user-profile-form
    ```
 
 ### 3. Configure the Backend
-Ensure your backend script (`gui.php`) connects to the database:
+Ensure your backend script (`profile.php`) connects to the database:
 ```php
 <?php
 $servername = "localhost";
